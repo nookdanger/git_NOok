@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=D\:/eclipse-luna/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=D\:/jdk1.8.0_101/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=D\:/jdk1.8.0_101/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=D\:/eclipse-luna/plugins/org.junit_4.11.0.v201303080030/
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/nook_/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
+org.eclipse.jdt.core.compiler.compliance=1.7
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.source=1.7
+org.eclipse.jdt.core.userLibrary.javaCV3.1.0=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="D\:/cvLib/javacpp.jar"/>\r\n\t<archive path\="D\:/cvLib/javacv.jar"/>\r\n\t<archive path\="D\:/cvLib/javacv-android-arm.jar"/>\r\n\t<archive path\="D\:/cvLib/javacv-linux-x86.jar"/>\r\n\t<archive path\="D\:/cvLib/javacv-linux-x86_64.jar"/>\r\n\t<archive path\="D\:/cvLib/javacv-macosx-x86_64.jar"/>\r\n\t<archive path\="D\:/cvLib/javacv-windows-x86.jar"/>\r\n\t<archive path\="D\:/cvLib/javacv-windows-x86_64.jar"/>\r\n</userlibrary>\r\n

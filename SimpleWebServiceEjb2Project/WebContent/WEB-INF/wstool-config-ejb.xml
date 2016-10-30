@@ -1,0 +1,13 @@
+<configuration xmlns="http://www.jboss.org/jbossws-tools">
+    <java-wsdl>
+        <service name="SimpleSessionService" 
+                 style="rpc" 
+                 endpoint="ejbs.SimpleSessionService"/>
+        <namespaces target-namespace="http://simple.ws.jboss.org/"
+                    type-namespace="http://simple.ws.jboss.org/types"/>
+        <mapping file="jaxrpc-mapping.xml"/>
+        
+        <webservices ejb-link="SimpleSession"/>
+
+    </java-wsdl>
+</configuration>

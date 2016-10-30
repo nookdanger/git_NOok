@@ -1,0 +1,11 @@
+package myOpenCV;
+
+public class MyCV {
+	
+	
+public static void main(String[] args) {
+	 IplImage image = cvLoadImage("C:\\img.jpg");
+}
+
+
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="D:\devTool\jboss-4.0.4.GA\bin\wstools.bat"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="-cp  ${workspace_loc:/SimpleWebServiceEjb2Project}/build/classes/  -config  ${workspace_loc:/SimpleWebServiceEjb2Project/WebContent/WEB-INF}/wstools-config-ejb.xml  -dest  ${workspace_loc:/SimpleWebServiceEjb2Project/WebContent/WEB-INF}"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="${workspace_loc:/SimpleWebServiceEjb2Project/WebContent/WEB-INF}"/>
+</launchConfiguration>

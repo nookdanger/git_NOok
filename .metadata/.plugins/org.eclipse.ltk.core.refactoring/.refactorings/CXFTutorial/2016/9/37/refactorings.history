@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CXFTutorial/WebContent/WEB-INF/cfx.xml&apos; to &apos;cxf.xml&apos;" description="Rename resource &apos;cfx.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/cfx.xml" name="cxf.xml" stamp="1473173798864" updateReferences="true"/>
+</session>
